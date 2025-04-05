@@ -33,11 +33,15 @@ python main.py --config ./config/AASIST.conf
 ```
 
 ### Pre-trained models
-We provide pre-trained AASIST 
+Have provided pre-trained AASIST 
 
 To evaluate AASIST [1]:
 - It shows `EER: 0.83%`, `min t-DCF: 0.0275`
 ```
 python main.py --eval --config ./config/AASIST.conf
 ```
+### Additional Resources
+
+- Research Document: [https://drive.google.com/file/d/1qJW6VPksBb9T4tdEqn_aVsmx7kkNW8Et/view?usp=drive_link]
+- Documentation & Analysis: [https://drive.google.com/file/d/1uWnbLM74NI9ZQZUwdGr_kO6I8yggb08q/view?usp=drive_link]
 
